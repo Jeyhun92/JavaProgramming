@@ -1,0 +1,8 @@
+package day01_JavaIntro;
+
+public class Test10 {
+
+    public static void main(String[] args) {
+        Phone.Gunay();
+    }
+}
